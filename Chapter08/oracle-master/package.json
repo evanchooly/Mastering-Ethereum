@@ -13,6 +13,6 @@
     "bip39": "^2.5.0",
     "ethereumjs-wallet": "^0.6.3",
     "truffle-hdwallet-provider": "^1.0.4",
-    "web3": "^1.0.0-beta.46"
+    "web3": "^4.6.0"
   }
 }
